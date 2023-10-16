@@ -1,2 +1,1 @@
-# Casestudy
-my case study
+# Lead-Scoring-Case-Study
